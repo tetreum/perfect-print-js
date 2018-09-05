@@ -9,6 +9,9 @@ Fast printing methods that are also present as package in php.
 # Usage
 
 ```js
+
+require('perfect-print-js')
+
 p("hi", {its:"me", mario:True})
 
 pd("print this and stop execution (print&die)")
