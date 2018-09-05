@@ -1,0 +1,16 @@
+{
+  "name": "perfect-print-js",
+  "version": "0.0.1",
+  "description" : "Perfect print function for js debugging",
+  "keywords": ["debugging", "print", "log"],
+  "repository": "github:tetreum/perfect-print-js",
+  "author": "tetreum",
+  "license": "Apache-2.0",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">= 8.0.0"
+  }
+}
